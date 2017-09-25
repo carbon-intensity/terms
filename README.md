@@ -8,6 +8,8 @@ These are the Terms of Use for the Carbon Intensity API.
 [Do I have to agree to these terms of use?](https://github.com/carbon-intensity/terms/blob/master/README.md#do-i-have-to-agree-to-these-terms-of-use) <br>
 [How long can I use the API for?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-long-can-i-use-the-api-for)<br>
 [How can I stay up to date on the terms?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-can-i-stay-up-to-date-on-the-terms)<br>
+[Licence](https://github.com/carbon-intensity/terms/blob/master/README.md#licence)<br>
+[More Information](https://github.com/carbon-intensity/terms/blob/master/README.md#more-information)<br>
 [1.	Licensed Uses and Restrictions](https://github.com/carbon-intensity/terms/blob/master/README.md#1licensed-uses-and-restrictions)<br>
 [2. Trademark](https://github.com/carbon-intensity/terms/blob/master/README.md#2-trademark)<br>
 [3. Relationship of the Parties](https://github.com/carbon-intensity/terms/blob/master/README.md#3-relationship-of-the-parties)<br>
@@ -18,8 +20,7 @@ These are the Terms of Use for the Carbon Intensity API.
 [8. Release and Waiver](https://github.com/carbon-intensity/terms/blob/master/README.md#8-release-and-waiver)<br>
 [9. Indemnity](https://github.com/carbon-intensity/terms/blob/master/README.md#9-indemnity)<br>
 [10. General Terms](https://github.com/carbon-intensity/terms/blob/master/README.md#10-general-terms)<br>
-[Licence](https://github.com/carbon-intensity/terms/blob/master/README.md#licence)<br>
-[More Information](https://github.com/carbon-intensity/terms/blob/master/README.md#more-information)<br>
+
 
 ## Do I have to agree to these terms of use? 
 If you want to use the Carbon Intensity API, then yes. National Grid are offering use of the Carbon Intensity API only on the terms posted here. By using the Carbon Intensity API, you are agreeing to follow the Terms of Use. If you do not agree to the Terms of Use, National Grid does not grant you a license to use the Carbon Intensity API.
@@ -31,20 +32,28 @@ How would the license end? Either party can end the license any time for any or 
 ## How can I stay up to date on the terms? 
 We might update these terms from time to time without notice or reason.
 
+## Licence 
+Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## More Information
+Please refer to the [carbonintensity.org.uk](http://carbonintensity.org.uk) website for more information. API documentation is available [here](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0).
+
+
+
 ### 1.	Licensed Uses and Restrictions.
 National Grid owns the Carbon Intensity API. National Grid licenses it to you on these terms.
 •	You can use it anywhere in the world.
 •	Your use is non-exclusive, so others can use it too.
 
 Here are things you cannot do:
-•	Sell, lease, or sublicense the Carbon Intensity API or access to it.
-•	Use the Carbon Intensity API for any application that substantially replaces the core user experience of National Grid’s websites, apps, or the Carbon Intensity API.
-•	Do anything that could mislead users into thinking you are offering a replacement for National Grid or that you or your product are endorsed or created by National Grid.
-•	Use the Carbon Intensity API to spam or harass anyone.
-•	Conceal your identity or your application’s identity when requesting authorisation to use the Carbon Intensity API.
-•	Use the Carbon Intensity API for any application that is spyware, adware, or any other malicious software, or is used in connection with any such software.
-•	Use the Carbon Intensity API in a way that violates the law or any person’s rights, including intellectual property and privacy rights.
-•	Use the Carbon Intensity API in a way that undermines the stability of the host servers or the behaviour of other applications using the Carbon Intensity API. National Grid applies a rate limit and may block applications that make a large number of calls to the API.
+•	Sell, lease, or sublicense the Carbon Intensity API or access to it.<br>
+•	Use the Carbon Intensity API for any application that substantially replaces the core user experience of National Grid’s websites, apps, or the Carbon Intensity API.<br>
+•	Do anything that could mislead users into thinking you are offering a replacement for National Grid or that you or your product are endorsed or created by National Grid.<br>
+•	Use the Carbon Intensity API to spam or harass anyone.<br>
+•	Conceal your identity or your application’s identity when requesting authorisation to use the Carbon Intensity API.<br>
+•	Use the Carbon Intensity API for any application that is spyware, adware, or any other malicious software, or is used in connection with any such software.<br>
+•	Use the Carbon Intensity API in a way that violates the law or any person’s rights, including intellectual property and privacy rights.<br>
+•	Use the Carbon Intensity API in a way that undermines the stability of the host servers or the behaviour of other applications using the Carbon Intensity API. National Grid applies a rate limit and may block applications that make a large number of calls to the API.<br>
 
 By accepting these terms, you agree to comply with the Carbon Intensity Terms of Use. National Grid reserves all rights not expressly granted in these terms.
 
@@ -90,10 +99,3 @@ If National Grid does not exercise any right it has under these terms, any such 
 These terms may not be construed against either party.
 #### 10.6. Entire Agreement. 
 These terms are the entire agreement between National Grid and you concerning National Grid’s Carbon Intensity API.
-
-### Licence 
-Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-### More Information
-Please refer to the [carbonintensity.org.uk](http://carbonintensity.org.uk) website for more information. API documentation is available [here](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0).
-

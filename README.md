@@ -6,8 +6,11 @@ These are the Terms of Use for the Carbon Intensity API.
 
 #### Contents
 [Do I have to agree to these terms of use?](https://github.com/carbon-intensity/terms/blob/master/README.md#do-i-have-to-agree-to-these-terms-of-use)
+
 [How long can I use the API for?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-long-can-i-use-the-api-for)
+
 [How can I stay up to date on the terms?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-can-i-stay-up-to-date-on-the-terms)
+
 [1.	Licensed Uses and Restrictions](https://github.com/carbon-intensity/terms/blob/master/README.md#1licensed-uses-and-restrictions)
 [2. Trademark](https://github.com/carbon-intensity/terms/blob/master/README.md#2-trademark)
 [3. Relationship of the Parties](https://github.com/carbon-intensity/terms/blob/master/README.md#3-relationship-of-the-parties)

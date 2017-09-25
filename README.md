@@ -9,17 +9,17 @@ These are the Terms of Use for the Carbon Intensity API.
 [How long can I use the API for?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-long-can-i-use-the-api-for)<br>
 [How can I stay up to date on the terms?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-can-i-stay-up-to-date-on-the-terms)<br>
 [Licence](https://github.com/carbon-intensity/terms/blob/master/README.md#licence)<br>
-
-[1.	Licensed Uses and Restrictions](https://github.com/carbon-intensity/terms/blob/master/README.md#1licensed-uses-and-restrictions)<br>
-[2. Trademark](https://github.com/carbon-intensity/terms/blob/master/README.md#2-trademark)<br>
-[3. Relationship of the Parties](https://github.com/carbon-intensity/terms/blob/master/README.md#3-relationship-of-the-parties)<br>
-[4. Support](https://github.com/carbon-intensity/terms/blob/master/README.md#4-support)<br>
-[5. Fees](https://github.com/carbon-intensity/terms/blob/master/README.md#5-fees)<br>
-[6. Disclaimer of Warranty](https://github.com/carbon-intensity/terms/blob/master/README.md#6-disclaimer-of-warranty)<br>
-[7. Limitation of Liability](https://github.com/carbon-intensity/terms/blob/master/README.md#7-limitation-of-liability)<br>
-[8. Release and Waiver](https://github.com/carbon-intensity/terms/blob/master/README.md#8-release-and-waiver)<br>
-[9. Indemnity](https://github.com/carbon-intensity/terms/blob/master/README.md#9-indemnity)<br>
-[10. General Terms](https://github.com/carbon-intensity/terms/blob/master/README.md#10-general-terms)<br>
+[Terms of Use](https://github.com/carbon-intensity/terms/blob/master/README.md#terms-of-use)<br>
+• [1.	Licensed Uses and Restrictions](https://github.com/carbon-intensity/terms/blob/master/README.md#1licensed-uses-and-restrictions)<br>
+• [2. Trademark](https://github.com/carbon-intensity/terms/blob/master/README.md#2-trademark)<br>
+• [3. Relationship of the Parties](https://github.com/carbon-intensity/terms/blob/master/README.md#3-relationship-of-the-parties)<br>
+• [4. Support](https://github.com/carbon-intensity/terms/blob/master/README.md#4-support)<br>
+• [5. Fees](https://github.com/carbon-intensity/terms/blob/master/README.md#5-fees)<br>
+• [6. Disclaimer of Warranty](https://github.com/carbon-intensity/terms/blob/master/README.md#6-disclaimer-of-warranty)<br>
+• [7. Limitation of Liability](https://github.com/carbon-intensity/terms/blob/master/README.md#7-limitation-of-liability)<br>
+• [8. Release and Waiver](https://github.com/carbon-intensity/terms/blob/master/README.md#8-release-and-waiver)<br>
+• [9. Indemnity](https://github.com/carbon-intensity/terms/blob/master/README.md#9-indemnity)<br>
+• [10. General Terms](https://github.com/carbon-intensity/terms/blob/master/README.md#10-general-terms)<br>
 [More Information](https://github.com/carbon-intensity/terms/blob/master/README.md#more-information)<br>
 
 ## Do I have to agree to these terms of use? 
@@ -33,7 +33,8 @@ How would the license end? Either party can end the license any time for any or 
 We might update these terms from time to time without notice or reason.
 
 ## Licence 
-Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)<br>
+---
 
 ## Terms of Use
 

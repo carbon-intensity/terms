@@ -1,6 +1,8 @@
 # Carbon Intensity API - Terms of Use
 
-Thank you for your interest in our “Carbon Intensity API” (Application Programming Interface). API documentation is available [here](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0). Here are the terms of use for our API.
+Thank you for your interest in National Grid's “Carbon Intensity API” (Application Programming Interface). The Carbon Intensity API provides programmatic access to carbon intensity data about Great Britain's electricity system. API documentation is available [here](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0). 
+
+These are the Terms of Use for the Carbon Intensity API.
 
 ## Do I have to agree to these terms of use? 
 If you want to use the Carbon Intensity API, then yes. National Grid are offering use of the Carbon Intensity API only on the terms posted here. By using the Carbon Intensity API, you are agreeing to follow the Terms of Use. If you do not agree to the Terms of Use, National Grid does not grant you a license to use the Carbon Intensity API.
@@ -73,5 +75,5 @@ These terms may not be construed against either party.
 These terms are the entire agreement between National Grid and you concerning National Grid’s Carbon Intensity API.
 
 ### More Information
-Please refer to the [carbonintensity.org.uk](http://carbonintensity.org.uk) webiste for more information. API documentation is available [here](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0).
+Please refer to the [carbonintensity.org.uk](http://carbonintensity.org.uk) website for more information. API documentation is available [here](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0).
 

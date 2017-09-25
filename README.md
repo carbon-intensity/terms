@@ -5,7 +5,7 @@ Thank you for your interest in our “Carbon Intensity API” (Application Progr
 ## Do I have to agree to these terms of use? 
 If you want to use the Carbon Intensity API, then yes. National Grid are offering use of the Carbon Intensity API only on the terms posted here. By using the Carbon Intensity API, you are agreeing to follow the Terms of Use. If you do not agree to the Terms of Use, National Grid does not grant you a license to use the Carbon Intensity API.
 
-## For how long can I use the API? 
+## How long can I use the API for? 
 Your license to the Carbon Intensity API continues until it is ended by you or National Grid.
 How would the license end? Either party can end the license any time for any or no reason. If you want to end the license, just stop using the Carbon Intensity API. That will end the license. If you violate any of the terms below, your license to use the Carbon Intensity API terminates automatically and right away. If National Grid sends you a written notice terminating your license, that also terminates your license right away.
 
@@ -16,6 +16,7 @@ We might update these terms from time to time without notice or reason.
 National Grid owns the Carbon Intensity API. National Grid licenses it to you on these terms.
 •	You can use it anywhere in the world.
 •	Your use is non-exclusive, so others can use it too.
+
 Here are things you cannot do:
 •	Sell, lease, or sublicense the Carbon Intensity API or access to it.
 •	Use the Carbon Intensity API for any application that substantially replaces the core user experience of National Grid’s websites, apps, or the Carbon Intensity API.
@@ -25,12 +26,13 @@ Here are things you cannot do:
 •	Use the Carbon Intensity API for any application that is spyware, adware, or any other malicious software, or is used in connection with any such software.
 •	Use the Carbon Intensity API in a way that violates the law or any person’s rights, including intellectual property and privacy rights.
 •	Use the Carbon Intensity API in a way that undermines the stability of the host servers or the behaviour of other applications using the Carbon Intensity API. National Grid applies a rate limit and may block applications that make a large number of calls to the API.
+
 By accepting these terms, you agree to comply with the Carbon Intensity Terms of Use. National Grid reserves all rights not expressly granted in these terms.
 
 ### 2. Trademark.
 You may use the National Grid word mark or logo in connection with the Carbon Intensity API as approved by National Grid. You agree to seek prior approval in writing from National Grid before any use of National Grid’s logo or word mark.
-### 3. Relationship of the Parties.
 
+### 3. Relationship of the Parties.
 National Grid has certain rights in the API under the laws of the United Kingdom and other countries. National Grid’s rights apply to the Carbon Intensity API and all its output and executables. You agree to abide by all applicable proprietary rights laws.
 These terms do not implicitly grant you rights in any intellectual property owned or licensed by National Grid. The only such rights you receive under these Terms are those explicitly granted.
 
@@ -41,16 +43,16 @@ National Grid may choose to provide you with support or modifications for the Ca
 National Grid is currently providing you the Carbon Intensity API for free.
 
 ### 6. Disclaimer of Warranty.
-National Grid’s providing the Carbon Intensity API to you as is. That means it does not come with any warranty, express or implied. No implied warranty of merchantability, fitness for a particular purpose, availability, security, title or non-infringement.
-We have made this Carbon Intensity API as reliable as possible. But the Carbon Intensity API will not be perfect. So, we are informing you now, it might have bugs, inaccuracies or interruptions.
-You use the Carbon Intensity API at your own discretion and risk.
+National Grid’s providing the Carbon Intensity API to you as is. That means it does not come with any warranty, express or implied. No implied warranty of merchantability, fitness for a particular purpose, availability, security, title or non-infringement. We have made this Carbon Intensity API as reliable as possible. But the Carbon Intensity API will not be perfect. So, we are informing you now, it might have bugs, inaccuracies or interruptions. You use the Carbon Intensity API at your own discretion and risk.
 
 ### 7. Limitation of Liability.
 National Grid will not be liable to you for any damages that arise from using the Carbon Intensity API. This includes all of types of damages (indirect, incidental, consequential, special or exemplary). And it includes all kinds of legal claims, such as breach of contract, breach of warranty, tort, or any other loss.
 
 ### 8. Release and Waiver.
 You release and waive all claims against National Grid to the maximum extent permitted by law. This means all types of claims, damages, costs and expenses arising from your use of the Carbon Intensity API. This includes all claims against any of National Grid’s subsidiaries, affiliates, officers, agents, licensors, co-branders or other partners, and employees.
+
 You understand that you or National Grid might later find out that a fact relating to this release is different than what we now believe. You accept and assume the risk of such possible differences in fact.
+
 You expressly waive all rights and benefits you may have under any other source of law of similar effect, to the fullest extent permitted by law.
 
 ### 9. Indemnity.

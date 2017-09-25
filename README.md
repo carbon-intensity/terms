@@ -4,7 +4,7 @@ Thank you for your interest in [National Grid's](http://www2.nationalgrid.com/uk
 
 These are the Terms of Use for the Carbon Intensity API.
 
-#### Contents
+#### Table of Contents
 [Do I have to agree to these terms of use?](https://github.com/carbon-intensity/terms/blob/master/README.md#do-i-have-to-agree-to-these-terms-of-use) <br>
 [How long can I use the API for?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-long-can-i-use-the-api-for)<br>
 [How can I stay up to date on the terms?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-can-i-stay-up-to-date-on-the-terms)<br>
@@ -32,8 +32,9 @@ How would the license end? Either party can end the license any time for any or 
 ## How can I stay up to date on the terms? 
 We might update these terms from time to time without notice or reason.
 
-## Licence 
-Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)<br>
+## License 
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)<br>
+
 ---
 
 ## Terms of Use

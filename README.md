@@ -8,7 +8,7 @@ These are the Terms of Use for the Carbon Intensity API.
 [Do I have to agree to these terms of use?](https://github.com/carbon-intensity/terms/blob/master/README.md#do-i-have-to-agree-to-these-terms-of-use) <br>
 [How long can I use the API for?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-long-can-i-use-the-api-for)<br>
 [How can I stay up to date on the terms?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-can-i-stay-up-to-date-on-the-terms)<br>
-[Licence](https://github.com/carbon-intensity/terms/blob/master/README.md#licence)<br>
+[License](https://github.com/carbon-intensity/terms/blob/master/README.md#license)<br>
 [Terms of Use](https://github.com/carbon-intensity/terms/blob/master/README.md#terms-of-use)<br>
 • [1.	Licensed Uses and Restrictions](https://github.com/carbon-intensity/terms/blob/master/README.md#1licensed-uses-and-restrictions)<br>
 • [2. Trademark](https://github.com/carbon-intensity/terms/blob/master/README.md#2-trademark)<br>
@@ -33,18 +33,19 @@ How would the license end? Either party can end the license any time for any or 
 We might update these terms from time to time without notice or reason.
 
 ## License 
-License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)<br>
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)<br><br>
 
 ---
 
 ## Terms of Use
 
 ### 1.	Licensed Uses and Restrictions.
-National Grid owns the Carbon Intensity API. National Grid licenses it to you on these terms.<br>
+National Grid owns the Carbon Intensity API. 
+#### National Grid licenses it to you on these terms.
 •	You can use it anywhere in the world.<br>
 •	Your use is non-exclusive, so others can use it too.<br>
 
-Here are things you cannot do:<br>
+#### Here are things you cannot do:
 •	Sell, lease, or sublicense the Carbon Intensity API or access to it.<br>
 •	Use the Carbon Intensity API for any application that substantially replaces the core user experience of National Grid’s websites, apps, or the Carbon Intensity API.<br>
 •	Do anything that could mislead users into thinking you are offering a replacement for National Grid or that you or your product are endorsed or created by National Grid.<br>

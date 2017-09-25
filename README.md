@@ -5,12 +5,9 @@ Thank you for your interest in [National Grid's](http://www2.nationalgrid.com/uk
 These are the Terms of Use for the Carbon Intensity API.
 
 #### Contents
-[Do I have to agree to these terms of use?](https://github.com/carbon-intensity/terms/blob/master/README.md#do-i-have-to-agree-to-these-terms-of-use)
-
+[Do I have to agree to these terms of use?](https://github.com/carbon-intensity/terms/blob/master/README.md#do-i-have-to-agree-to-these-terms-of-use) \n
 [How long can I use the API for?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-long-can-i-use-the-api-for)
-
 [How can I stay up to date on the terms?](https://github.com/carbon-intensity/terms/blob/master/README.md#how-can-i-stay-up-to-date-on-the-terms)
-
 [1.	Licensed Uses and Restrictions](https://github.com/carbon-intensity/terms/blob/master/README.md#1licensed-uses-and-restrictions)
 [2. Trademark](https://github.com/carbon-intensity/terms/blob/master/README.md#2-trademark)
 [3. Relationship of the Parties](https://github.com/carbon-intensity/terms/blob/master/README.md#3-relationship-of-the-parties)
@@ -21,7 +18,8 @@ These are the Terms of Use for the Carbon Intensity API.
 [8. Release and Waiver](https://github.com/carbon-intensity/terms/blob/master/README.md#8-release-and-waiver)
 [9. Indemnity](https://github.com/carbon-intensity/terms/blob/master/README.md#9-indemnity)
 [10. General Terms](https://github.com/carbon-intensity/terms/blob/master/README.md#10-general-terms)
-
+[Licence]
+[More Information](https://github.com/carbon-intensity/terms/blob/master/README.md#more-information)
 
 ## Do I have to agree to these terms of use? 
 If you want to use the Carbon Intensity API, then yes. National Grid are offering use of the Carbon Intensity API only on the terms posted here. By using the Carbon Intensity API, you are agreeing to follow the Terms of Use. If you do not agree to the Terms of Use, National Grid does not grant you a license to use the Carbon Intensity API.
@@ -92,6 +90,10 @@ If National Grid does not exercise any right it has under these terms, any such 
 These terms may not be construed against either party.
 #### 10.6. Entire Agreement. 
 These terms are the entire agreement between National Grid and you concerning National Grid’s Carbon Intensity API.
+
+### Licence 
+
+Licence: [CC-BY 4.0]
 
 ### More Information
 Please refer to the [carbonintensity.org.uk](http://carbonintensity.org.uk) website for more information. API documentation is available [here](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0).

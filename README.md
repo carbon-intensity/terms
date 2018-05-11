@@ -5,21 +5,18 @@ Thank you for your interest in National Grid's "Carbon Intensity API" (Applicati
 These are the Terms of Use for the Carbon Intensity API.
 
 ### Table of Contents
-[Do I have to agree to these terms of use?](#do-i-have-to-agree-to-these-terms-of-use)
-[How long can I use the API for?](#how-long-can-i-use-the-api-for)
-[How can I stay up to date on the terms?](#how-can-i-stay-up-to-date-on-the-terms)
-[License](#license)
-[Terms of Use](#terms-of-use)
+
+
  1. [Licensed Uses and Restrictions](#1licensed-uses-and-restrictions)
- 1. [Trademark](#2-trademark)
- 1. [Relationship of the Parties](#3-relationship-of-the-parties)
- 1. [Support](#4-support)
- 1. [Fees](#5-fees)
- 1. [Disclaimer of Warranty](#6-disclaimer-of-warranty)
- 1. [Limitation of Liability](#7-limitation-of-liability)
- 1. [Release and Waiver](#8-release-and-waiver)
- 1. [Indemnity](#9-indemnity)
- 1. [General Terms](#10-general-terms)
+ 2. [Trademark](#2-trademark)
+ 3. [Relationship of the Parties](#3-relationship-of-the-parties)
+ 4. [Support](#4-support)
+ 5. [Fees](#5-fees)
+ 6. [Disclaimer of Warranty](#6-disclaimer-of-warranty)
+ 7. [Limitation of Liability](#7-limitation-of-liability)
+ 8. [Release and Waiver](#8-release-and-waiver)
+ 9. [Indemnity](#9-indemnity)
+ 10. [General Terms](#10-general-terms)
 [More Information](#more-information)
 
 ## Do I have to agree to these terms of use?

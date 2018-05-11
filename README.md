@@ -5,8 +5,6 @@ Thank you for your interest in National Grid's "Carbon Intensity API" (Applicati
 These are the Terms of Use for the Carbon Intensity API.
 
 ### Table of Contents
-
-
  1. [Licensed Uses and Restrictions](#1licensed-uses-and-restrictions)
  2. [Trademark](#2-trademark)
  3. [Relationship of the Parties](#3-relationship-of-the-parties)
@@ -17,7 +15,7 @@ These are the Terms of Use for the Carbon Intensity API.
  8. [Release and Waiver](#8-release-and-waiver)
  9. [Indemnity](#9-indemnity)
  10. [General Terms](#10-general-terms)
-[More Information](#more-information)
+ 11. [More Information](#more-information)
 
 ## Do I have to agree to these terms of use?
 If you want to use the Carbon Intensity API, then yes. National Grid are offering use of the Carbon Intensity API only on the terms posted here. By using the Carbon Intensity API, you are agreeing to follow the Terms of Use. If you do not agree to the Terms of Use, National Grid does not grant you a license to use the Carbon Intensity API.
